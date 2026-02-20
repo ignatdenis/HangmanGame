@@ -23,3 +23,9 @@ Clone the repository.
 Open Hangman_Ignat_Denis.sln in Visual Studio.
 
 Press F5 to build and run the application.
+
+
+### Background
+This project was developed as my high school graduation exam (Atestat la Informatică)
+
+It represents my first steps into C# and Windows Forms development.
